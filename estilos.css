@@ -1,0 +1,26 @@
+
+h1{ color: midnightblue;
+    font-size:x-large;
+    font-family:'Anton', sans-serif;}   
+
+
+p{color: midnightblue;
+  font-family:'Anton', sans-serif;}
+
+body{background-color: rgb(219, 197, 210);
+
+}
+
+legend{color: midnightblue; 
+       background-color: aliceblue;
+       font-family:'Anton', sans-serif;
+}
+button{background-color:whitesmoke;}
+
+.hide{
+  display:none;
+}
+
+.show{
+  display: block;
+}
